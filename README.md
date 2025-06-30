@@ -52,10 +52,47 @@ Acabo de finalizar mis estudios como desarrollador web y he trabajado con una am
 
 ## 🧪 Proyectos actuales
 
-🎓 **Proyecto Final de Curso**: Aplicando todos los conocimientos adquiridos durante mis años estudiando, voy a construir una aplicacion que pueda hacer gestionar las necesidades básicas y especificas de una empresa de componentes informáticos.    
-🤖 **Bot de Discord con servicios personalizados**: Incluye un acceso directo a base de datos personal, acceso al control de elementos electricos o electrónicos de mi casa a través de comandos y otras funciones como reproducir musica en chat...  
-🎮 **Fear & Tactics**: Videojuego de terror, acción y estrategia por turnos en 3D desarrollado en Godot  
-⚠️ **Aprendizaje Ciberseguridad**: Concretamente Red Team (Pentesting) haciendo uso de Kali Linux
+<table>
+  <tr>
+    <td width="50">
+      🎓
+    </td>
+    <td>
+      <strong>Proyecto Final de Curso</strong><br/>
+      Aplicación web completa para la gestión interna de una empresa de componentes informáticos.<br/>
+      Aplicando todos los conocimientos adquiridos durante mis años estudiando, voy a construir una aplicacion que pueda hacer gestionar las necesidades básicas y especificas de mis clientes.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🤖
+    </td>
+    <td>
+      <strong>Bot de Discord con servicios personalizados</strong><br/>
+      Bot multifunción con acceso a base de datos personal, integración con sistemas domóticos (control de luces/dispositivos electrónicos), reproducción de música y mucho más.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🎮
+    </td>
+    <td>
+      <strong>Fear & Tactics</strong><br/>
+      Videojuego de terror, acción y estrategia por turnos en 3D usando <strong>Godot 4</strong>.<br/>
+      Combina exploración, gestión táctica y narrativa con ambientación oscura e inmersiva.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ⚠️
+    </td>
+    <td>
+      <strong>Aprendizaje en Ciberseguridad - Red Team</strong><br/>
+      Formación autodidacta en <strong>Pentesting</strong> utilizando <strong>Kali Linux</strong> y herramientas especializadas.<br/>
+      Explorando análisis de vulnerabilidades, explotación, redes y pruebas controladas de intrusión.
+    </td>
+  </tr>
+</table>
 
 ---
 
