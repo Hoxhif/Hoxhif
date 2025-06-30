@@ -60,7 +60,7 @@ Acabo de finalizar mis estudios como desarrollador web y he trabajado con una am
     <td>
       <strong>Proyecto Final de Curso</strong><br/>
       Aplicación web completa para la gestión interna de una empresa de componentes informáticos.<br/>
-      Aplicando todos los conocimientos adquiridos durante mis años estudiando, voy a construir una aplicacion que pueda hacer gestionar las necesidades básicas y especificas de mis clientes.
+      Construiré una aplicacion que pueda hacer gestionar las necesidades básicas y especificas de mis clientes.
     </td>
   </tr>
   <tr>
