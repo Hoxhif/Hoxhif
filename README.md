@@ -54,7 +54,7 @@ Acabo de finalizar mis estudios como desarrollador web y he trabajado con una am
 
 🎓 **Proyecto Final de Curso**  
 🤖 **Bot de Discord con servicios personalizados**  
-🎮 **Fear & Tactics**: Videojuego de terror, acción y estrategia por turnos desarrollado en Godot
+🎮 **Fear & Tactics**: Videojuego de terror, acción y estrategia por turnos desarrollado en Godot  
 ⚠️ **Aprendizaje Ciberseguridad**: Concretamente Red Team (Pentesting) haciendo uso de Kali Linux
 
 ---
