@@ -52,9 +52,9 @@ Acabo de finalizar mis estudios como desarrollador web y he trabajado con una am
 
 ## 🧪 Proyectos actuales
 
-🎓 **Proyecto Final de Curso**  
-🤖 **Bot de Discord con servicios personalizados**  
-🎮 **Fear & Tactics**: Videojuego de terror, acción y estrategia por turnos desarrollado en Godot  
+🎓 **Proyecto Final de Curso**: Aplicando todos los conocimientos adquiridos durante mis años estudiando, voy a construir una aplicacion que pueda hacer gestionar las necesidades básicas y especificas de una empresa de componentes informáticos.    
+🤖 **Bot de Discord con servicios personalizados**: Incluye un acceso directo a base de datos personal, acceso al control de elementos electricos o electrónicos de mi casa a través de comandos y otras funciones como reproducir musica en chat...  
+🎮 **Fear & Tactics**: Videojuego de terror, acción y estrategia por turnos en 3D desarrollado en Godot  
 ⚠️ **Aprendizaje Ciberseguridad**: Concretamente Red Team (Pentesting) haciendo uso de Kali Linux
 
 ---
